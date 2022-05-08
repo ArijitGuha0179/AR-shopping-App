@@ -1,5 +1,4 @@
-# ibuypower
-E-commerce App based on AR 3D models
+# <p align="center"> iBuyPower </p>
 
 ## <p align="center"> AUGMENTED REALITY BASED ONLINE MARKETING </p>
 
@@ -25,3 +24,5 @@ To overcome with the issues of online marketing, our team has come up with a sol
 
 ## SCALABILITY OF THE APPLICATION
 When any new product will be added to e-commerce websites like Amazon and Flipkart, the image of the product will be detected by object detection models. These models will be trained by the use of deep learning and neural networks. This image will then be converted into 3D model using a DIB-R paper within PyTorch library. This 3D model will be used inside the AR environment in the app. The User can view the object in a real-time environment and they proceed to buy the product if they are satisfied with the results.
+
+

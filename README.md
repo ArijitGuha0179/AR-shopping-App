@@ -22,8 +22,8 @@ To overcome with the issues of online marketing, our team has come up with a sol
 * VS Studio
 * React
 ## INSTALLATION
-* Clone the repo ``
-* cd 
+* Clone the repo: ```git clone https://github.com/ArijitGuha0179/ibuypower.git```
+* cd ibuypower/iBuyPowerAR 
 * Open Unity hub
 * Click open project
 * Unity opens the project

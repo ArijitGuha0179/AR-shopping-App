@@ -1,4 +1,4 @@
-# <p align="center"> iBuyPower </p>
+# <p align="center"> AR-Shopping App </p>
 
 ## <p align="center"> AUGMENTED REALITY BASED ONLINE MARKETING </p>
 
